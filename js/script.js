@@ -27,6 +27,16 @@ const map = L.map('map', {
   layers: [basePlanimetria, layerViolenze, layerQuartieri]
 });
 
+const miniMapLayer = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+  attribution: '© OpenStreetMap'
+});
+
+const miniMap = new L.Control.MiniMap(miniMapLayer, {
+  toggleDisplay: true,
+  minimized: false
+}).addTo(map);
+
+
 
 // Layers control
 L.control.layers(
