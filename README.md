@@ -1,4 +1,4 @@
-# Violenza neofascista a Bari (1968–1978)
+# Mappa della violenza neofascista a Bari (1968–1978)
 
 ![Dieci anni di violenza fascista a Bari](data/diecianni.png)
 
@@ -6,7 +6,7 @@ Questa mappa interattiva visualizza gli episodi di violenza neofascista avvenuti
 
 Nonostante Bari fosse ritenuta una «città tranquilla», nei dieci anni precedenti al delitto Petrone, erano stati registrati circa 150 episodi di violenza riconducibili alla destra neofascista. I dati sono desumibili dal dossier realizzato da PCI e FGCI nel 1978, intitolato *Dieci anni di violenze fasciste a Bari*. Attraverso l'identificazione dei luoghi descritti nel dossier, è stato possibile geolocalizzare 128 episodi di violenza. Stante la provenienza politica della fonte, 73 episodi sono stati validati attraverso l'associazione ad articoli di cronaca comparsi sulla stampa dell’epoca (*La Gazzetta del Mezzogiorno* e *l’Unità*).
 
-Questa visualizzazione permette di esplorare la distribuzione spaziale della violenza politica, in relazione ai quartieri cittadini, alle aree di concentrazione giovanile e alle sedi politiche e culturali.
+Questa visualizzazione permette di esplorare la distribuzione spaziale della violenza neofascista, in relazione ai quartieri cittadini, alle aree di concentrazione giovanile e alle sedi politiche e culturali.
 
 ---
 
