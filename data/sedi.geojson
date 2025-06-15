@@ -1,0 +1,30 @@
+{
+"type": "FeatureCollection",
+"name": "sedi",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": null, "nome": "del MSI", "coll": "dx" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 16.868387096929698, 41.12557551781169 ] ] } },
+{ "type": "Feature", "properties": { "id": null, "nome": "della CISNAL", "coll": "dx" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 16.866898408838647, 41.125728915162803 ] ] } },
+{ "type": "Feature", "properties": { "id": null, "nome": "del MSI e del Fronte della Gioventù (sezione Messeni Nemagna-Passaquindici)", "coll": "dx" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 16.872626773602033, 41.106457162161313 ] ] } },
+{ "type": "Feature", "properties": { "id": null, "nome": "del PCI", "coll": "sx" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 16.824231952499542, 41.136803100318225 ] ] } },
+{ "type": "Feature", "properties": { "id": null, "nome": "del PCI", "coll": "sx" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 16.762920651108288, 41.149520725591863 ] ] } },
+{ "type": "Feature", "properties": { "id": null, "nome": "del PSIUP", "coll": "sx" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 16.868099501887318, 41.125120721620149 ] ] } },
+{ "type": "Feature", "properties": { "id": null, "nome": "del PCdI (m-l)", "coll": "sx" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 16.869648335474157, 41.074133037494967 ] ] } },
+{ "type": "Feature", "properties": { "id": null, "nome": "del Circolo Lenin", "coll": "sx" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 16.868679891703177, 41.127976952333015 ] ] } },
+{ "type": "Feature", "properties": { "id": null, "nome": "del PSI", "coll": "sx" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 16.864300712023372, 41.123065713863021 ] ] } },
+{ "type": "Feature", "properties": { "id": null, "nome": "del PCI", "coll": "sx" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 16.862486908220667, 41.113279726449633 ] ] } },
+{ "type": "Feature", "properties": { "id": null, "nome": "della libreria Rinascita", "coll": "sx" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 16.868186894725365, 41.123598870645864 ] ] } },
+{ "type": "Feature", "properties": { "id": null, "nome": "del PCI", "coll": "sx" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 17.000768135326837, 41.087497795474185 ] ] } },
+{ "type": "Feature", "properties": { "id": null, "nome": "dell'UCI (Unione dei Comunisti Italiani)", "coll": "sx" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 16.86882561698242, 41.125928119940276 ] ] } },
+{ "type": "Feature", "properties": { "id": null, "nome": "di Lotta Continua", "coll": "sx" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 16.865564634838826, 41.123214322237757 ] ] } },
+{ "type": "Feature", "properties": { "id": null, "nome": "del PCI", "coll": "sx" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 16.878117213680191, 41.12214071215751 ] ] } },
+{ "type": "Feature", "properties": { "id": null, "nome": "dei Radicali", "coll": "sx" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 16.866701699221213, 41.121872908499398 ] ] } },
+{ "type": "Feature", "properties": { "id": null, "nome": "del PCI", "coll": "sx" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 16.877177601656495, 41.104463862891002 ] ] } },
+{ "type": "Feature", "properties": { "id": null, "nome": "del Club Hokum", "coll": "dx" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 16.860911924119325, 41.102729470694783 ] ] } },
+{ "type": "Feature", "properties": { "id": null, "nome": "del MLS (Movimento Lavoratori per il Socialismo)", "coll": "sx" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 16.877714908834264, 41.114661798912437 ] ] } },
+{ "type": "Feature", "properties": { "id": null, "nome": "del PSI", "coll": "sx" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 16.86319474504198, 41.112198373546363 ] ] } },
+{ "type": "Feature", "properties": { "id": null, "nome": "del PCI (sezione Pappagallo-Introna)", "coll": "sx" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 16.86978109432296, 41.131107436365703 ] ] } },
+{ "type": "Feature", "properties": { "id": null, "nome": "del MSI", "coll": "dx" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 16.869238691346673, 41.124348700765722 ] ] } },
+{ "type": "Feature", "properties": { "id": null, "nome": "del PCI", "coll": "sx" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 16.877641873431781, 41.114089094976606 ] ] } }
+]
+}

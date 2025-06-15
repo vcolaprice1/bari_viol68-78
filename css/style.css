@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+#map {
+  width: 100%;
+  height: 100vh;
+}
+/* disattiva l’outline di focus sui vettori */
+.leaflet-interactive:focus {
+  outline: none;
+}
