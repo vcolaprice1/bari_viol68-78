@@ -33,7 +33,7 @@ La mappa è navigabile a partire dalla pagina `index.html` e in maniera più imm
 - PCI e FGCI (a cura di), *Dieci anni di violenze fasciste a Bari*. Bari, 1978.
 - *La Gazzetta del Mezzogiorno*.
 - *L’Unità*.
-- Cartografia storica del Comune di Bari (1971): [Cartografie storiche](https://www.comune.bari.it/web/edilizia-e-territorio/cartografie-storiche)
+- Cartografia storica del Comune di Bari (1971): [Cartografie storiche](https://www.comune.bari.it/web/edilizia-e-territorio/cartografie-storiche).
 
 **Bibliografia ulteriore:**
 - Pasquale Martino e Nicola Signorile, *Le due città: i giorni di Bendedetto Petrone*. Bari: Libreria Cooperativa, 1978.
