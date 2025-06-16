@@ -30,16 +30,23 @@ La mappa è navigabile a partire dalla pagina `index.html` e in maniera più imm
 
 ## 📚 Fonti
 
-- *Dieci anni di violenze fasciste a Bari*, a cura di FGCI e PCI Bari, 1978.
+- PCI e FGCI (a cura di), *Dieci anni di violenze fasciste a Bari*. Bari, 1978.
 - *La Gazzetta del Mezzogiorno*.
 - *L’Unità*.
 - Cartografia storica del Comune di Bari (1971): [Cartografie storiche](https://www.comune.bari.it/web/edilizia-e-territorio/cartografie-storiche)
+
+**Bibliografia ulteriore:**
+- Pasquale Martino e Nicola Signorile, *Le due città: i giorni di Bendedetto Petrone*. Bari: Libreria Cooperativa, 1978.
+- Carlo Schaerf, Giuseppe De Lutiis, Alessandro Silj, Francesco Carlucci, Emilio Bellucci, Stefania Argentini, *Venti anni di violenza politica in Italia: 1969-1988*, voll. 4. Roma: Università degli Studi “La Sapienza”, 1992.
+- Guido Panvini, *Ordine nero, guerriglia rossa: la violenza politica nell’Italia degli anni Sessanta e Settanta (1966-1975)*. Torino: Einaudi, 2009.
+- Davide Conti, *L'anima nera della Repubblica: storia del MSI*. Bari-Roma: Laterza, 2018.
+- Vincenzo Colaprice, *Benedetto Petrone: storia di una generazione e di un delitto*. Bari: ERF, 2024.
 
 ---
 
 ## 👤 Autore
 
-Ricerca e sviluppo a cura di [Vincenzo Colaprice](https://www.sissco.it/soci/colaprice-vincenzo/)
+Ricerca e sviluppo a cura di [Vincenzo Colaprice](https://www.sissco.it/soci/colaprice-vincenzo/) ([Università degli Studi di Torino](https://www.dipstudistorici.unito.it/do/docenti.pl/Show?_id=vcolapri#tab-profilo)).
 
 ---
 
@@ -53,4 +60,4 @@ Ricerca e sviluppo a cura di [Vincenzo Colaprice](https://www.sissco.it/soci/col
   - `sedi.geojson`
   - `aree.geojson`
   - `diecianni.png`
-- `bari_basemap/` – cartella con la base storica PRG Bari 1971 (tiles)
+- `bari_basemap/` – cartella con la basemap del PRG del Comune di Bari del 1971
