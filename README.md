@@ -14,7 +14,7 @@ La ricerca è stata presentata il 6 giugno 2025 presso l'Università di Helsinki
 
 La mappa è navigabile a partire dalla pagina `index.html` e in maniera più immediata attraverso il seguente link: https://vcolaprice1.github.io/bari_viol68-78/.
 
-Il dataset è disponibile per la consultazione anche sulla piattaforma Zenodo: [https://doi.org/10.5281/zenodo.15674124](https://doi.org/10.5281/zenodo.15674124)
+Il dataset è disponibile per la consultazione anche sulla piattaforma Zenodo: [https://doi.org/10.5281/zenodo.15674124](https://doi.org/10.5281/zenodo.15674124).
 
 **Controlli disponibili:**
 - Puoi attivare o disattivare i livelli dal pannello in alto a destra:
