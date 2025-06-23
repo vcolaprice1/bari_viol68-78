@@ -52,14 +52,14 @@ Ricerca e sviluppo a cura di [Vincenzo Colaprice](https://www.sissco.it/soci/col
 
 ---
 
-## 📂 Struttura dei file
+## 📂 Struttura
 
-- `index.html` – struttura principale della mappa
-- `js/script.js` – logica della mappa Leaflet
-- `data/` – contiene:
+- `index.html`
+- `js/script.js`
+- `data/`
   - `violenze_68-78.geojson`
   - `quartieri.geojson`
   - `sedi.geojson`
   - `aree.geojson`
   - `diecianni.png`
-- `bari_basemap/` – cartella con la basemap del PRG del Comune di Bari del 1971
+- `bari_basemap/`
