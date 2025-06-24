@@ -8,6 +8,8 @@ Nonostante Bari fosse ritenuta una «città tranquilla», nei dieci anni precede
 
 La ricerca è stata presentata il 6 giugno 2025 presso l'Università di Helsinki (Finlandia) nel contesto della conferenza "[Imagining the Anti-Fascist City](https://www.helsinki.fi/en/conferences/imagining-anti-fascist-city)". Analisi e considerazioni più approfondite saranno pubblicate negli atti della conferenza.
 
+Si ringrazia Nicola Signorile per il supporto nell'identificazione di alcuni luoghi.
+
 ---
 
 ## 🗺️ Come usare la mappa
