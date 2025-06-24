@@ -2,7 +2,7 @@
 
 ![Dieci anni di violenza fascista a Bari](data/diecianni.png)
 
-Questa mappa interattiva visualizza gli episodi di violenza neofascista avvenuti a Bari tra il 1968 e il 1978. L'episodio più noto è costituito dall’aggressione del 28 novembre 1977, in cui fu ucciso Benedetto Petrone, giovane militante della Federazione Giovanile Comunista Italiana (FGCI), accoltellato da membri del Fronte della Gioventù (FdG) in piazza Prefettura, al confine tra città vecchia e borgo murattiano. L'assassinio di Petrone scatenò una mobilitazione antifascista imponente nelle giornate del 29 e 30 novembre 1977.  
+[Questa mappa](https://vcolaprice1.github.io/bari_viol68-78/) interattiva visualizza gli episodi di violenza neofascista avvenuti a Bari tra il 1968 e il 1978. L'episodio più noto è costituito dall’aggressione del 28 novembre 1977, in cui fu ucciso Benedetto Petrone, giovane militante della Federazione Giovanile Comunista Italiana (FGCI), accoltellato da membri del Fronte della Gioventù (FdG) in piazza Prefettura, al confine tra città vecchia e borgo murattiano. L'assassinio di Petrone scatenò una mobilitazione antifascista imponente nelle giornate del 29 e 30 novembre 1977.  
 
 Nonostante Bari fosse ritenuta una «città tranquilla», nei dieci anni precedenti al delitto Petrone, erano stati registrati circa 150 episodi di violenza riconducibili alla destra neofascista. I dati sono desumibili dal dossier realizzato da PCI e FGCI nel 1978, intitolato *Dieci anni di violenze fasciste a Bari*. Attraverso l'identificazione dei luoghi descritti nel dossier, è stato possibile geolocalizzare 128 episodi di violenza. Stante la provenienza politica della fonte, 73 episodi sono stati validati attraverso l'associazione ad articoli di cronaca comparsi sulla stampa dell’epoca (*La Gazzetta del Mezzogiorno* e *l’Unità*). I nomi di autori e vittime delle violenze sono stati indicati attraverso le sole iniziali, a eccezione dell'episodio del 28 novembre 1977. La mappa permette di esplorare la distribuzione spaziale della violenza neofascista, in relazione ai quartieri cittadini, alle aree di concentrazione giovanile e alle sedi politiche e culturali.
 
@@ -14,7 +14,7 @@ Si ringrazia Nicola Signorile per il supporto nell'identificazione di alcuni luo
 
 ## 🗺️ Come usare la mappa
 
-La mappa è navigabile a partire dalla pagina `index.html` e in maniera più immediata attraverso il seguente link: https://vcolaprice1.github.io/bari_viol68-78/.
+La mappa è consultabile attraverso il seguente link: https://vcolaprice1.github.io/bari_viol68-78/.
 
 Il dataset è disponibile per la consultazione anche sulla piattaforma Zenodo: [https://doi.org/10.5281/zenodo.15674124](https://doi.org/10.5281/zenodo.15674124).
 
