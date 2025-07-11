@@ -34,8 +34,7 @@ info.onAdd = function () {
   const div = L.DomUtil.create('div', 'map-title');
   div.innerHTML = `
     <strong>Mappa della violenza neofascista a Bari (1968–1978)</strong><br>
-    Localizzazione degli episodi di violenza politica neofascista a Bari (1968-1978).<br>
-    Clicca sul popup per visualizzare i dati.<br>
+    Clicca sul segnaposto per visualizzare i dati.<br>
     Per informazioni su metodologia e fonti consultare <a href="https://github.com/vcolaprice1/bari_viol68-78/tree/master?tab=readme-ov-file#mappa-della-violenza-neofascista-a-bari-19681978" target="_blank">questo link</a>.
   `;
   return div;
