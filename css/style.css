@@ -10,3 +10,11 @@ body {
 .leaflet-interactive:focus {
   outline: none;
 }
+.map-title {
+  background-color: rgba(255, 255, 255, 0.9);
+  padding: 10px;
+  font-size: 14px;
+  line-height: 1.4;
+  border-radius: 4px;
+  box-shadow: 0 0 4px rgba(0,0,0,0.2);
+}
