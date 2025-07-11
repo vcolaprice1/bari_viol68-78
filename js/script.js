@@ -27,6 +27,22 @@ const map = L.map('map', {
   layers: [basePlanimetria, layerViolenze, layerQuartieri]
 });
 
+// Infobox fisso in alto a destra
+const info = L.control({ position: 'topright' });
+
+info.onAdd = function () {
+  const div = L.DomUtil.create('div', 'map-title');
+  div.innerHTML = `
+    <strong>Mappa della violenza neofascista a Bari (1968–1978)</strong><br>
+    Localizzazione degli episodi di violenza politica neofascista a Bari (1968-1978).<br>
+    Clicca sul popup per visualizzare i dati.
+  `;
+  return div;
+};
+
+info.addTo(map);
+
+
 const miniMapLayer = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
   attribution: '© OpenStreetMap'
 });
